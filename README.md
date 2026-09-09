@@ -21,7 +21,9 @@ This guide is provided for informational purposes only. Flashing firmware, custo
 
 **This guide is licensed under CC BY 4.0. The third-party software, firmware, kernels, and tools referenced here remain under their respective licenses.**
 
-Make sure you understand each step and have a way to restore the device to stock firmware before proceeding.
+Make sure you understand each step and have a way to restore the device to stock firmware before proceeding. Do Your Own Research before proceeding and have understanding of things you are about to do. Rooting may cause google and some apps to not function properly. Make sure to read every instructions and understand them, do not blindly do things.
+
+Questions should be asked in the XDA forum https://xdaforums.com/t/root-twrp-kernel-full-persistent-root-guide-on-a505fn.4800549/#post-90725318 and I'll try to help you.
 
 
 ## What you will end up with
